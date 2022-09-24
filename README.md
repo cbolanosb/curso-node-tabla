@@ -1,6 +1,7 @@
 #Notas:
 Este es mi primer programa en Node
 
+```
 Options:
       --help     Show help                                             [boolean]
       --version  Show version number                                   [boolean]
@@ -9,3 +10,4 @@ Options:
                                            [boolean] [required] [default: false]
   -h, --hasta    Hasta que número se hace la tabla
                                                [number] [required] [default: 10]
+```
